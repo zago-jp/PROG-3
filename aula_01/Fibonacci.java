@@ -2,7 +2,7 @@
  * @zago-j.p  -------  Fibonacci da primeira aula.
  */
 
-public class Fibonacci {
+public class Fibonacci { //Fibonacci
 
     // Funcao recursiva para calcular o n-esimo termo da sequencia
     public static int fibo(int n) {
